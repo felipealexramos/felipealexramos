@@ -1,27 +1,22 @@
-## Hi there 👋 I'm Felipe Alexandre! 
+<h1>👋 &nbsp;Olá, eu sou o Felipe, um desenvolvedor front-end apaixonado pelo que faz!</h1>
 
 <!--
 **VeviciSoftware/VeviciSoftware** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-Here are some ideas to get you started:
+<h2> 👨🏻‍💻 &nbsp;About Me </h2>
 
-- 🔭 I’m currently working on Fullstack Development
-- ✨ My main habilities are: PHP (Laravel), React, Typescript, Node.js and Vue.js
-- 🌱 I’m currently learning NodeJs
-- 📫 How to reach me: felipeadar108@gmail.com
-  
-<div style="display: inline_block"><br>
-  <img align="center" alt="Felipe-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
-  <img align="center" alt="Felipe-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Felipe-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Felipe-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Felipe-Vue" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" /> 
-  <img align="center" alt="Felipe-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Felipe-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Felipe-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Felipe-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" /> 
-</div>
+Desde o final de 2020, quando descobri a programação, venho trilhando uma jornada de aprendizado e evolução constante. Hoje, com 2 anos de experiência de mercado, atuo como desenvolvedor fullstack, domino tecnologias como PHP, Laravel, Vue.js, Node.js e React.js, além de trabalhar com bancos de dados relacionais e não relacionais como Oracle PL/SQL, Postgres, MySQL e MongoDB.
+
+Minha experiência profissional e acadêmica me proporcionou um forte background em desenvolvimento web e sistemas distribuídos. Atualmente, estudo microsserviços e microfront-ends para aprimorar ainda mais minhas habilidades.
+
+💡 Destaques da minha trajetória:
+
+🔹 NovoMundo.com: Desenvolvi soluções que reduziram significativamente a carga de trabalho do setor de vendas/comercial, economizando mais de um dia de trabalho para os colaboradores. Também contribuí para a modernização visual do principal software de vendas da empresa e criei APIs que integraram grandes parceiros, como VTEX, Serasa e NAPP Solutions.
+
+🔹 HMO Tecnologia: Participei de um projeto internacional para o site smartmodularcanada.ca, onde atuei como analista de requisitos e utilizei meu inglês avançado para liderar reuniões com clientes canadenses.
+
+🔹 Instituto Federal de Goiás: Fui líder de desenvolvimento front-end no projeto Olhar Seguro - Proteção Estudantil, um sistema baseado em Inteligência Artificial para reconhecimento facial de estudantes, garantindo mais segurança e confiabilidade no acesso ao campus. Atualmente sou aluno no campus de Inhumas e estou no último período da Graduação em Engenharia de Software.
   
   ##
  
@@ -33,4 +28,25 @@ Here are some ideas to get you started:
 
 ##
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vevicisoftware&langs_count=8)
+<h2> 🛠 &nbsp;Tech Stack</h2>
+<h3>💻 &nbsp;Front-end:</h3>
+
+![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript&logoColor=2D79C7)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![React](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
+![Vue](https://img.shields.io/badge/-Vue-333333?style=flat&logo=vue.js)
+![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest&logoColor=E535AB)
+
+<h3>⚙️ &nbsp;Back-end e banco de dados:</h3>
+
+![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
+![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest&logoColor=E535AB)
+
+<h2>🚀 &nbsp;Um pouco mais sobre o meu perfil</h2>
+
+![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=felipealexramos&layout=compact&theme=dracula)
