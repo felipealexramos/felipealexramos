@@ -1,4 +1,4 @@
-<h1>👋 &nbsp;Olá, eu sou o Felipe, um desenvolvedor front-end apaixonado pelo que faz!</h1>
+<h1>👋 &nbsp;Olá, eu sou o Felipe, um desenvolvedor full stack apaixonado pelo que faz!</h1>
 
 <!--
 **VeviciSoftware/VeviciSoftware** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
